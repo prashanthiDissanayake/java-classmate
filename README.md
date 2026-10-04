@@ -354,3 +354,5 @@ MarkerA markerA = someMethod.get(MarkerA.class); // markerA != null
 ```
 
 Now the `ResolvedMethod` for `SomeOtherClass` also contains the `Marker` and `MarkerA` annotations!
+
+   Prashanthi Dissanayake - MS26905686
